@@ -1,0 +1,6 @@
+venv/
+data/
+*.xlsx
+outputs/
+*.png
+*.csv
